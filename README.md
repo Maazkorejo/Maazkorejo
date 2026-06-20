@@ -18,7 +18,7 @@
 
 I'm a 3rd-year BS Information Technology student at **University of Sindh, Jamshoro** who builds and ships real products — not just tutorials. My work sits at the intersection of **AI/LLMs**, **backend engineering**, and **cloud deployment**.
 
-- 🤖 Hold **5 Anthropic-verified credentials** including the MCP certification (Apr 2026)
+- 🤖 Hold **6 Anthropic-verified credentials** including the MCP certification (Apr 2026)
 - 🚀 Two government-backed internships at **PITP–MUET** (Cloud Computing & Graphic Design)
 - 🔬 Currently deepening expertise in **agentic AI workflows** and **n8n automation**
 - 🌍 Based in Hyderabad, Pakistan
