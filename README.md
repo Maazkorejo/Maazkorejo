@@ -1,36 +1,43 @@
 <div align="center">
 
+# Hi there, I'm Muhammad Maaz 👋
+
+### AI Developer & Backend Engineer | Building LLM-integrated platforms, agentic systems & ML pipelines
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Maazkorejo&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammad--maaz--korejo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-maaz-korejo-1677a9267)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-22C55E?style=for-the-badge&logo=railway&logoColor=white)](https://cloud-portfolio-production-f02c.up.railway.app)
 [![Email](https://img.shields.io/badge/Email-maazkorejo00@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maazkorejo00@gmail.com)
 
-# Muhammad Maaz
-### AI Developer & Backend Engineer
-
-*3rd-year IT student at University of Sindh — shipping real, deployed AI and backend systems*
-
 </div>
 
 ---
 
-## 👋 About Me
+### 🎯 About Me
 
-I'm a 3rd-year BS Information Technology student at **University of Sindh, Jamshoro** who builds and ships real products — not just tutorials. My work sits at the intersection of **AI/LLMs**, **backend engineering**, and **cloud deployment**.
-
-- 🤖 Hold **6 Anthropic-verified credentials** including the MCP certification (Apr 2026)
-- 🚀 Two government-backed internships at **PITP–MUET** (Cloud Computing & Graphic Design)
-- 🔬 Currently deepening expertise in **agentic AI workflows** and **n8n automation**
+- 🎓 3rd-year **BS Information Technology** student at **University of Sindh, Jamshoro** (6th semester)
+- 🤖 Specializing in **LLM-integrated platforms**, **agentic AI systems**, and **cloud-deployed backends**
+- 📜 Hold **8 Anthropic-verified credentials**, including **Model Context Protocol (MCP)** — Apr 2026
+- 🏛️ Completed **two government-backed internships** at PITP–MUET (Government of Sindh) in Cloud Computing and Graphic Design
+- 🔬 Currently deepening expertise in **agentic workflows (LangGraph)** and **n8n automation**
 - 🌍 Based in Hyderabad, Pakistan
+
+### 🚀 What I Do
+
+- 🤖 **Agentic AI Systems** — Building tool-calling assistants with LangGraph, Mistral AI, and persistent vector memory (pgvector)
+- ⚙️ **Backend Engineering** — Designing REST APIs and relational schemas with Flask, PostgreSQL, and Supabase
+- 🔐 **Machine Learning for Security** — Training XGBoost/Random Forest models for network intrusion detection with SHAP explainability
+- ☁️ **Cloud Deployment** — Shipping full-stack platforms on Railway and Vercel with CI/CD pipelines
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-**AI & LLMs**
+**AI & LLM Engineering**
 
 ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-Certified-7C3AED?style=for-the-badge&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
 ![Mistral AI](https://img.shields.io/badge/Mistral_AI-FF7000?style=for-the-badge&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
@@ -59,14 +66,14 @@ I'm a 3rd-year BS Information Technology student at **University of Sindh, Jamsh
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-**Currently Building**
+**Currently Exploring**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
@@ -80,26 +87,50 @@ I'm a 3rd-year BS Information Technology student at **University of Sindh, Jamsh
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-### ⚽ [Football Pundit](https://github.com/Maazkorejo/football-pundit) — *[football-pundit.vercel.app](https://football-pundit.vercel.app)*
-> AI-powered social prediction platform for FIFA World Cup 2026
+#### 🦇 [Alfred — Personal AI Operating Assistant](https://github.com/Maazkorejo/Alfred-Personal-Assistant) — *[Live Sandbox Demo](https://alfred-personal-assistant.vercel.app)*
+> A fully agentic AI assistant, not just a chatbot wrapper
 
-A full-stack social app where users post hot takes and match analyses — then **Mistral AI automatically scores and roasts them** after every match. Features a live leaderboard, APScheduler-driven post-match scoring pipeline, and real football data via API-Football.
+Built a **LangGraph-based agentic assistant** with real tool-calling — email, calendar, and reminders — backed by **persistent vector memory (pgvector)** for contextual recall across sessions. Implemented a **real-time streaming chat interface** (Flask-SocketIO) with a live agent-reasoning trace panel exposing the model's tool-selection steps, plus voice I/O via Piper TTS and a custom clap-to-wake system. Deployed a public sandbox (Railway + Vercel) to demo the architecture without exposing the private integrations.
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral_AI-FF7000?style=flat-square&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL+pgvector-316192?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+
+---
+
+#### ⚽ [AI Pundit Rankings — Football Prediction Platform](https://github.com/Maazkorejo/football-pundit) — *[football-pundit.vercel.app](https://football-pundit.vercel.app)*
+> Social prediction platform for FIFA World Cup 2026
+
+Built a full-stack social platform with a **6-module REST API** and **5-table relational schema**, where users post match predictions and an automated **AI-scoring pipeline (APScheduler + Mistral AI)** grades them against live results and generates real-time roasts — eliminating manual scoring entirely. Integrated live football data via the API-Football feed.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Mistral](https://img.shields.io/badge/Mistral_AI-FF7000?style=flat-square&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
 ---
 
-### 🌐 [Cloud Portfolio Platform](https://github.com/Maazkorejo/Cloud-Portfolio) — *Live on Railway*
+#### 🛡️ [Network Intrusion Detection System](https://github.com/Maazkorejo/NIDS-Machine-Learning)
+> ~99% accuracy ML pipeline on real-world cybersecurity data
+
+Built an end-to-end ML pipeline on the **CICIDS-2017 dataset**, classifying 14 network attack categories (DDoS, Port Scan, Botnet, Brute Force) with **XGBoost achieving ~99% accuracy** and a near-zero false-positive rate. Applied **SHAP** for model explainability, identifying the top predictive features driving each classification, and packaged the pipeline as a reproducible module for one-command reuse.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+---
+
+#### 🌐 [Cloud Portfolio Platform](https://github.com/Maazkorejo/Cloud-Portfolio) — *Live on Railway*
 > Production-grade personal platform on multi-cloud free-tier infrastructure
 
-Full-stack platform with Flask backend, Neon PostgreSQL, Railway hosting, and GitHub CI/CD auto-deploy. Includes 4 REST API endpoints, dark/light mode, and admin-authenticated contact submissions.
+Delivered a **Flask + Neon PostgreSQL + Railway** platform with **4 REST API endpoints**, GitHub CI/CD auto-deploy, dark/light mode, and admin-authenticated contact submissions — built as a capstone project during a government-backed Cloud Computing internship.
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
@@ -108,60 +139,46 @@ Full-stack platform with Flask backend, Neon PostgreSQL, Railway hosting, and Gi
 
 ---
 
-### 🛡️ [Network Intrusion Detection System](https://github.com/Maazkorejo/NIDS-Machine-Learning)
-> ~99% accuracy ML pipeline on real-world cybersecurity data
+### 💼 Experience
 
-End-to-end ML pipeline on the **CICIDS-2017** dataset. XGBoost achieved ~99% accuracy with near-zero false-positive rate. Includes model comparison, confusion matrices, and full evaluation reports.
+**Cloud Computing Intern** — PITP–MUET, Jamshoro (Govt of Sindh) · *Mar – May 2026*
+Delivered a capstone Flask + PostgreSQL + Railway platform with CI/CD as part of a government-backed technical training program, and reduced lab environment setup time by ~30% by scripting VM configuration for trainee onboarding.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
----
-
-### 🤖 [AI Chatbot](https://github.com/Maazkorejo/AI-Chatbot-Project) — *Live on Streamlit Cloud*
-> Deployed LLM chatbot with Hugging Face Inference API
-
-Clean Streamlit chat UI with real-time LLM responses, API token secured via environment variables.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+**Certified Graphic Designer Intern** — PITP–MUET (Govt of Sindh) · *Jan – Mar 2025*
+Produced 10+ branded visual assets for institutional print and digital communications under a government-accredited design program.
 
 ---
 
-### 🗺️ [AI Travel Map](https://github.com/Maazkorejo/Ai-travel-map)
-> AI-powered travel planning and destination discovery app
+### 🎓 Education
 
-Flask-based travel planner with interactive maps, AI-generated itineraries, and personalized recommendations.
+| Degree | Institution | Duration |
+|--------|-------------|----------|
+| BS Information Technology | University of Sindh, Jamshoro | Feb 2024 – Dec 2027 (6th Sem.) |
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+**Relevant coursework:** AI & Machine Learning, Advanced DBMS, Cybersecurity, Cloud Computing, Computer Networks
 
 ---
 
-## 📜 Certifications
+### 📜 Certifications
 
 | Issuer | Credential |
 |--------|------------|
-| 🟠 **Anthropic ×5** | MCP [Apr 2026] · Claude Code in Action · Claude 101 · AI Fluency: Framework & Foundations · AI Fluency for Students |
-| 🔵 **IBM** | Cybersecurity Fundamentals |
-| 🔵 **HP LIFE** | AI for Beginners |
-| 🟢 **PITP–MUET** | Cloud Computing |
+| 🟠 **Anthropic ×8** | Model Context Protocol (Apr 2026) · Claude with the Anthropic API · Introduction to Agent Skills · Introduction to Subagents · Claude Code in Action · AI Fluency: Framework & Foundations · Claude 101 · AI Fluency for Students |
+| 🏅 **HEC/NAVTTC** | Top Participant — ACT AI SkillBridge (2026) |
+| 🔵 **McKinsey.org** | McKinsey Forward (Jun 2026) |
+| 🔵 **IBM SkillsBuild** | Cybersecurity Fundamentals · Protecting a Device with Malwarebytes |
+| 🔶 **Forage** | Mastercard · Datacom (Job Simulations) |
+| 🟣 **Cambridge IQ / UniAthena** | Python ×4 |
 | ⚫ **Simplilearn** | Git & GitHub |
-| 🟣 **Cambridge IQ / UniAthena** | Python ×2 |
-| 🔶 **Forage** | Accenture (Data Analytics) · Deloitte (Tech Consulting) · JPMorgan (Cybersecurity) |
 
 ---
 
-## 💼 Experience
+### 🔭 Current Mission
 
-**Cloud Computing Intern** — PITP–MUET, Government of Sindh *(Mar – May 2026)*
-Built and deployed full-stack Flask + Neon PostgreSQL + Railway platform with REST API and GitHub CI/CD auto-deploy. Reduced lab setup time ~30% through scripted VM configuration.
-
-**Certified Graphic Designer Intern** — PITP–MUET, Government of Sindh *(Jan – Mar 2025)*
-Delivered 10+ branded visual assets for institutional communications across print and digital channels.
+- 🔭 **Building:** Alfred's core agent architecture (LangGraph + vector memory) into a production-ready private build
+- 🌱 **Exploring:** Agentic workflow design, n8n automation, and multi-hop LLM tool orchestration
+- 🤝 **Open to:** AI/ML internships, backend engineering roles, and collaborations on agentic AI projects
+- 💬 **Ask me about:** LangGraph, Mistral AI, Flask backends, or intrusion detection with XGBoost
 
 ---
 
@@ -169,6 +186,6 @@ Delivered 10+ branded visual assets for institutional communications across prin
 
 *Open to internships, collaborations, and interesting problems.*
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+⭐ **Star a repo if my work impressed you** ⭐
 
 </div>
