@@ -2,7 +2,7 @@
 
 # Hi there, I'm Muhammad Maaz 👋
 
-### AI Developer & Backend Engineer | Building LLM-integrated platforms, agentic systems & ML pipelines
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=AI+Developer+%26+Backend+Engineer;Building+Agentic+AI+Systems+with+LangGraph;LLM-Integrated+Platforms+%2B+ML+Pipelines;Shipping+Real%2C+Deployed+Products)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Maazkorejo&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammad--maaz--korejo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-maaz-korejo-1677a9267)
@@ -13,6 +13,10 @@
 
 ---
 
+<table>
+<tr>
+<td width="60%">
+
 ### 🎯 About Me
 
 - 🎓 3rd-year **BS Information Technology** student at **University of Sindh, Jamshoro** (6th semester)
@@ -22,12 +26,31 @@
 - 🔬 Currently deepening expertise in **agentic workflows (LangGraph)** and **n8n automation**
 - 🌍 Based in Hyderabad, Pakistan
 
+</td>
+<td width="40%">
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="40%">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="0"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100%"/>
+</td>
+<td width="60%">
+
 ### 🚀 What I Do
 
 - 🤖 **Agentic AI Systems** — Building tool-calling assistants with LangGraph, Mistral AI, and persistent vector memory (pgvector)
 - ⚙️ **Backend Engineering** — Designing REST APIs and relational schemas with Flask, PostgreSQL, and Supabase
 - 🔐 **Machine Learning for Security** — Training XGBoost/Random Forest models for network intrusion detection with SHAP explainability
 - ☁️ **Cloud Deployment** — Shipping full-stack platforms on Railway and Vercel with CI/CD pipelines
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -173,12 +196,38 @@ Produced 10+ branded visual assets for institutional print and digital communica
 
 ---
 
+<table>
+<tr>
+<td width="60%">
+
 ### 🔭 Current Mission
 
 - 🔭 **Building:** Alfred's core agent architecture (LangGraph + vector memory) into a production-ready private build
 - 🌱 **Exploring:** Agentic workflow design, n8n automation, and multi-hop LLM tool orchestration
 - 🤝 **Open to:** AI/ML internships, backend engineering roles, and collaborations on agentic AI projects
 - 💬 **Ask me about:** LangGraph, Mistral AI, Flask backends, or intrusion detection with XGBoost
+- ⚡ **Fun fact:** I built a clap-to-wake assistant using real-time FFT spectral analysis, no cloud needed
+- 🎯 **Goal:** Shipping AI systems that are genuinely useful, not just impressive demos
+
+</td>
+<td width="40%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+</td>
+</tr>
+</table>
+
+---
+
+### 🤝 Connect & Collaborate
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-maaz-korejo-1677a9267)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maazkorejo)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maazkorejo00@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923456618618)
+
+</div>
 
 ---
 
@@ -187,5 +236,7 @@ Produced 10+ branded visual assets for institutional print and digital communica
 *Open to internships, collaborations, and interesting problems.*
 
 ⭐ **Star a repo if my work impressed you** ⭐
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
