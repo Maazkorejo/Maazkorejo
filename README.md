@@ -11,6 +11,10 @@
 
 </div>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/kirinnee/kirinnee/master/pixel-city.gif" width="100%"/>
+</div>
+
 ---
 
 <table>
@@ -53,6 +57,10 @@
 </table>
 
 ---
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%"/>
+</div>
 
 ### 🛠️ Tech Stack
 
@@ -109,6 +117,10 @@
 </div>
 
 ---
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+</div>
 
 ### 🚀 Featured Projects
 
@@ -225,7 +237,6 @@ Produced 10+ branded visual assets for institutional print and digital communica
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-maaz-korejo-1677a9267)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maazkorejo)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maazkorejo00@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923456618618)
 
 </div>
 
@@ -237,6 +248,6 @@ Produced 10+ branded visual assets for institutional print and digital communica
 
 ⭐ **Star a repo if my work impressed you** ⭐
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
 </div>
