@@ -1,266 +1,359 @@
-# Muhammad Maaz Korejo
-
 <div align="center">
 
-### **AI Developer & Backend Systems Engineer**
-
-[![Live Portfolio](https://img.shields.io/badge/Live%20Portfolio-maaz--korejo.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://maaz-korejo.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-maaz-korejo)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maazkorejo)
-[![PyPI](https://img.shields.io/badge/PyPI-Packages-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/Maazkorejo)
-[![Email](https://img.shields.io/badge/Email-maazkorejo00%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maazkorejo00@gmail.com)
+<!-- Animated Dynamic Typing Banner -->
+<a href="https://maaz-korejo.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&pause=1200&color=22C55E&center=true&vCenter=true&random=false&width=780&height=85&lines=Hi%2C+I'm+Muhammad+Maaz+Korejo+%F0%9F%91%8B;AI+Developer+%26+Backend+Engineer;Building+Production+LLM+%26+RAG+Systems;IDP+Pipelines+%7C+Offline+Evals+%7C+Agentic+Tools" alt="Typing SVG Banner" />
+</a>
 
 <p align="center">
-  <b>Building Production-Grade AI Systems End-to-End:</b><br/>
-  LLM Orchestration & Evaluation · Intelligent Document Processing (IDP) · Agentic Tooling · High-Throughput Backends
+  <img src="https://img.shields.io/badge/Open%20To-Opportunities-00C853?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20PK-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Production%20AI%20Systems-purple?style=for-the-badge&logo=sparkles&logoColor=white" />
 </p>
 
-```
-📍 Hyderabad, Pakistan | 🎓 BS Information Technology (University of Sindh, 2024–2027)
-📜 12 Anthropic Credentials | 📜 33 Accredited Certifications | 🧪 100% Pytest Coverage Discipline
-```
+<!-- Social & Web Badges with Hover-Friendly Flat Style -->
+<p align="center">
+  <a href="https://maaz-korejo.vercel.app">
+    <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/muhammad-maaz-korejo">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Maazkorejo">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://pypi.org/user/Maazkorejo">
+    <img src="https://img.shields.io/badge/PyPI_Packages-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI" />
+  </a>
+  <a href="mailto:maazkorejo00@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
----
+<!-- Animated SVG Separator -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" />
 
 </div>
 
-## 📌 About Me
+<br/>
 
-I am an **AI Developer & Backend Engineer** who builds reliable, cost-efficient, production-hardened AI software. My focus is engineering real systems under practical constraints:
-- **Intelligent Document Processing (IDP):** Architecting multi-tier hybrid extraction pipelines (heuristic checks, local CPU parsers, cloud OCR fallbacks) that reduce API costs by 80–90%.
-- **Deterministic Offline Evaluation:** Building lightweight evaluation frameworks (`llm-eval-kit`) that measure factual grounding, question relevance, refusal detection, and response completeness without costly LLM-as-a-judge calls.
-- **Agentic Architectures & Tooling:** Designing adaptive reflection checkpoint systems (Self-RAG), desktop/web operating assistants (Alfred), and developer CLI tooling (`ctx-bridge` on PyPI).
+<!-- ═══════════════════════ ABOUT / INTRO ═══════════════════════ -->
+## 🔮 About Me
 
----
-
-## ⚡ Key Highlights & Engineering Metrics
-
-| Metric | Achievement | Impact / Details |
-|:---|:---|:---|
-| **80–90%** | Cloud OCR Cost Cut | Designed 3-tier hybrid routing pipeline (*LiteParse -> Docling CPU -> Mistral/Chandra fallback*) |
-| **3.3x** | Batch Extraction Speedup | Implemented distributed Ray parallel actors for multi-page PDF processing |
-| **292+ hrs** | Verified Engineering Track | Completed Back-End AI Engineering track & accepted capstone at FlyRank.ai |
-| **0 API Calls** | Deterministic Offline Eval | Designed embedding-based evaluation (*Grounding, Relevance, Refusal, Completeness*) |
-| **100%** | Test Coverage Discipline | Maintained 100% unit and integration test coverage across CLI tools and microservices |
-| **12** | Anthropic Verified Credentials | MCP, MCP Advanced, Claude API, Claude Vertex AI, Agent Skills, Subagents, Claude Code |
-| **33** | Total Verified Certifications | Anthropic, Google, Linux Foundation, IBM, HP LIFE, Forage, UniAthena, PITP |
-
----
-
-## 💼 Work Experience & Fellowships
-
-### 1. Back-End AI Engineering Intern — **[FlyRank.ai](https://flyrank.ai)**
-*Casper, WY · Remote | Jul 2026 – Sep 2026* &nbsp; `Completed Track`
-- Completed **292+ documented hours** across API contracts, Task design & structured prompting, Retrieval & Grounding (RAG), and Evaluation & operations.
-- Culminated program with accepted capstone project **"Your 10x Solution"**, reviewed and approved by lead track mentors and executive leadership.
-- Engineered 5 end-to-end production assignments: custom web scrapers, JWT/auth session protection, multi-container Docker application stacks, PostgreSQL database integrations, and CRUD REST APIs.
-- Attended 29 live technical masterclasses and finished 55 industry learning resources alongside completing 12 Anthropic Academy certifications.
-- **Verified Credentials:** Official Certificate of Completion (`FR-D11-FA8DB-52256`), Recommendation Letter from CEO Alen Malkoc, and Final Internship Evaluation Report from Director Arijana Ibrović.
-
-### 2. AI Developer Intern — **Nebulark (IDP SaaS)**
-*Jul 2026 – Present* &nbsp; `Active Role`
-- Conducted a comprehensive **14-tool benchmark** across OCR, layout parsing, and table extraction engines (*Docling, Mistral-OCR-4, Chandra-OCR, DocLayout-YOLO, Reducto, LandingAI DPT-3, PaddleOCR, LiteParse*).
-- Architected a **3-tier cost-optimized hybrid extraction pipeline** (*0.5s LiteParse heuristic pre-check -> local Docling on CPU -> Mistral-OCR-4 / Chandra-OCR cloud fallback*), slashing cloud API costs by **80–90%**.
-- Implemented **Ray parallel actor processing** achieving a **3.3x speedup** for batch PDF document extraction; fine-tuned **DocLayout-YOLO** (9 document layout classes) using Label-Studio annotations.
-- Conducted OpenMAIC provider-registry architectural review and enforced PostgreSQL Row-Level Security (RLS) policies for multi-tenant isolation.
-
-### 3. Research / Implementation Engineer — **[INFERENCE Lab Fellowship](https://github.com/Inference-LAB)**
-*Cohort 01 | Jul 2026 – Present* &nbsp; `Cohort 01 Fellow`
-- Selected from **130+ applicants** for Cohort 01 to build `llm-eval-kit`, an open-source, pip-installable Python library for offline, deterministic LLM evaluation.
-- Designed and implemented 4 core evaluation modules (*Factual Grounding, Relevance, Refusal Detection, Completeness*) with **zero external LLM-as-judge API calls** using local sentence-transformers (`all-MiniLM-L6-v2`).
-- Engineered thread-safe singleton embedding model loader and numeric-mismatch verification layer to eliminate false-positive semantic matches in quantitative evaluations.
-
-### 4. Cloud Computing Intern — **PITP–MUET, Jamshoro**
-*Govt of Sindh | Mar 2026 – May 2026*
-- Delivered a capstone Flask + PostgreSQL + Railway web platform with automated CI/CD under a government-backed technical training program.
-- Reduced lab environment setup time by **~30%** via automated VM configuration and onboarding scripts.
-
-### 5. Certified Graphic Designer Intern — **PITP–MUET**
-*Govt of Sindh | Jan 2025 – Mar 2025*
-- Produced 10+ branded visual assets for institutional print and digital communications under an accredited government design program.
-- Earned official Certified Graphic Designer Certificate of Completion.
-
----
-
-## 🚀 Flagship Projects & Open-Source Tools
-
-### 📦 [CTX-Bridge](https://github.com/Maazkorejo/CTX-Bridge) — *Open-Source AI Context Handoff CLI*
-[![PyPI version](https://img.shields.io/pypi/v/ctx-bridge?color=blue&logo=pypi&logoColor=white)](https://pypi.org/project/ctx-bridge)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-- **Tech:** `Python` · `Typer CLI` · `Rich` · `pytest` · `PyPI` · `Git`
-- **Install:** `pip install ctx-bridge`
-- Packages codebase context with zero friction for LLM handoffs (Claude, Cursor, ChatGPT).
-- Features automated language detection, intelligent `.gitignore` filtering, live token counter, and automated secret redaction (API keys, env tokens).
-- Includes template presets for Claude Code subagents, Cursor rules, and architecture specs with clean Rich terminal UI and 100% test coverage.
-
-### 🔬 [llm-eval-kit](https://github.com/Inference-LAB/llm-eval-kit) — *Offline LLM Evaluation Library*
-[![PyPI version](https://img.shields.io/pypi/v/llm-eval-kit?color=blue&logo=pypi&logoColor=white)](https://pypi.org/project/llm-eval-kit)
-- **Tech:** `Python` · `sentence-transformers` · `PyTorch` · `NumPy` · `pytest` · `Scikit-learn`
-- **Install:** `pip install llm-eval-kit`
-- Lightweight Python library for offline, deterministic LLM evaluation without external judge API costs or latency.
-- Implements 4 core evaluation metrics: *Factual Grounding*, *Question Relevance*, *Refusal Detection*, and *Response Completeness* using local `all-MiniLM-L6-v2` embeddings.
-- Thread-safe singleton model cache and strict numeric-mismatch verification to prevent false-positive quantitative matches.
-
-### 🧠 [Self-Reflective RAG Engine](https://github.com/Maazkorejo/self-rag-engine) — *Adaptive Retrieval on LLaMA 3.3 70B*
-- **Tech:** `Python` · `Groq API` · `LLaMA 3.3 70B` · `LangGraph` · `ChromaDB / pgvector` · `Docker` · `pytest`
-- Implemented Self-RAG architecture (*Asai et al.*) over Groq LLaMA 3.3 70B with 4 automated reflection checkpoints (`Retrieve`, `IsRel`, `IsSup`, `IsUse`).
-- Dynamic query rewriting and web search fallback triggered whenever local vector retrieval fails relevance thresholds.
-- Containerized with Docker and tested with 100% unit & integration test coverage (46 pytest test cases).
-
-### 🎙️ [Alfred — Personal AI Operating Assistant](https://github.com/Maazkorejo/Alfred-Personal-Assistant)
-[![Live Demo](https://img.shields.io/badge/Demo-Live-brightgreen)](https://alfred-personal-assistant.vercel.app)
-- **Tech:** `Flask` · `Flask-SocketIO` · `LangGraph` · `Mistral AI` · `PostgreSQL (pgvector)` · `React 18` · `Piper TTS` · `Railway` · `Vercel`
-- Agentic operating assistant equipped with 14 custom tools (email, calendar, filesystem, shell, web search).
-- Real-time streaming WebSocket trace panel exposing step-by-step tool invocation logs and agent reasoning traces.
-- Offline local speech synthesis using Piper TTS and a lightweight FFT spectral clap-to-wake detector for hands-free local activation.
-
-### ⚽ [AI Pundit Rankings](https://github.com/Maazkorejo/football-pundit) — *FIFA World Cup 2026 Prediction Platform*
-[![Live Demo](https://img.shields.io/badge/Demo-Live-brightgreen)](https://football-pundit.vercel.app)
-- **Tech:** `Flask` · `React 18` · `Supabase` · `PostgreSQL` · `Mistral AI` · `APScheduler` · `Railway` · `Vercel`
-- Social prediction platform with a 6-module REST API and 5-table relational schema.
-- Automated AI-scoring background worker (APScheduler + Mistral AI) that grades predictions against live match feeds and generates real-time community roasts.
-
-### 🛡️ [Network Intrusion Detection System](https://github.com/Maazkorejo/NIDS-Machine-Learning)
-- **Tech:** `Python` · `XGBoost` · `Random Forest` · `Scikit-learn` · `SHAP` · `Pandas`
-- End-to-end machine learning pipeline classifying 14 network attack categories (*DDoS, Port Scan, Botnet, Brute Force*) on the CICIDS-2017 dataset.
-- Achieved **~99% classification accuracy** with near-zero false positives.
-- Interpreted feature importance using SHAP explainability values; packaged for one-command execution.
-
----
-
-## 🛠️ Master Tech Stack & Capabilities
-
-```
-┌──────────────────────────────────────────────────────────────────────────┐
-│                             MASTER TECH STACK                            │
-├──────────────────────────────────────────────────────────────────────────┤
-│ LAYER 01: AI & LLM ENGINEERING                                           │
-│  • Model Context Protocol (MCP)    • Claude Code (Subagents & Skills)    │
-│  • Claude / Anthropic API          • Retrieval & Grounding (RAG)         │
-│  • DSPy Prompt Optimization        • LangGraph Agent Workflows           │
-│  • Mistral AI & Groq LLaMA 3.3 70B • sentence-transformers               │
-│  • llm-eval-kit (Offline Eval)     • Vector Memory (pgvector / Supabase) │
-├──────────────────────────────────────────────────────────────────────────┤
-│ LAYER 02: DOCUMENT INTELLIGENCE & OCR                                    │
-│  • Intelligent Document Processing • Docling & LiteParse                 │
-│  • Mistral-OCR-4 & Chandra-OCR     • DocLayout-YOLO (9 classes)          │
-│  • Ray Parallel Processing (3.3x)  • Label-Studio & MinerU               │
-│  • Agentic Document Workflows      • n8n Automation                      │
-├──────────────────────────────────────────────────────────────────────────┤
-│ LAYER 03: MACHINE LEARNING & DATA SCIENCE                                │
-│  • Scikit-learn                    • XGBoost & Random Forest             │
-│  • SHAP Explainability             • Pandas & NumPy                      │
-│  • Feature Engineering             • Model Benchmarking & Evaluation     │
-├──────────────────────────────────────────────────────────────────────────┤
-│ LAYER 04: BACKEND & CLOUD INFRASTRUCTURE                                 │
-│  • Python (Flask)                  • REST APIs & API Contracts           │
-│  • Swagger / OpenAPI               • Docker & Containerization           │
-│  • PostgreSQL (RLS Multi-Tenancy)  • Supabase & pgvector                 │
-│  • Auth (JWT / Login & Protect)    • Webhooks & Caching                  │
-│  • Background Jobs & Workflows     • The Twelve-Factor App               │
-│  • Railway Deployment              • Git / GitHub & CI/CD Pipelines      │
-├──────────────────────────────────────────────────────────────────────────┤
-│ LAYER 05: FRONTEND, TESTING & TOOLING                                    │
-│  • pytest (100% Test Coverage)     • Typer CLI & Rich Terminal           │
-│  • Web Scraping (HTML to Clean)    • Node.js & JavaScript                │
-│  • React 18 & Vite                 • Tailwind CSS & shadcn/ui            │
-│  • HTML5 & CSS3                    • Framer Motion & Responsive Design   │
-└──────────────────────────────────────────────────────────────────────────┘
+```yaml
+identity: Muhammad Maaz Korejo
+current_roles:
+  - "Back-End AI Engineering Intern @ FlyRank.ai (Casper, WY · Remote)"
+  - "Research / Implementation Engineer Fellow @ INFERENCE Lab (Cohort 01)"
+  - "AI Developer Intern @ Nebulark (IDP SaaS)"
+core_philosophy: "Engineering discipline over hype. Real system output over slide decks."
+education: "BS Information Technology, University of Sindh, Jamshoro (2024–2027)"
+verified_credentials: "12 Anthropic | 33 Total Accredited Certifications"
 ```
 
----
+I am an **AI Developer & Backend Systems Engineer** specializing in taking LLM-integrated platforms, intelligent document extraction pipelines, and agentic workflows from research papers into **production-hardened, low-latency codebases**.
 
-## 📜 Verified Certifications (33 Total)
-
-<details>
-<summary><b>🟧 Anthropic (12 Verified Credentials) — Expand to view</b></summary>
-
-1. **Model Context Protocol (MCP):** Architecture, Transports, Stdio/SSE Servers & Clients
-2. **Model Context Protocol: Advanced Topics**
-3. **Building with the Claude API**
-4. **Claude with Google Cloud's Vertex AI**
-5. **Introduction to Agent Skills**
-6. **Introduction to Subagents**
-7. **Claude Code in Action**
-8. **Claude Code 101**
-9. **Claude Platform 101**
-10. **AI Fluency: Framework & Foundations**
-11. **Claude 101**
-12. **AI Fluency for Students**
-
-</details>
-
-<details>
-<summary><b>🟦 Google & The Linux Foundation — Expand to view</b></summary>
-
-1. **Google AI Essentials Specialization** (5-Course Specialization · Google / Coursera)
-2. **AI Fundamentals** (Google · Coursera)
-3. **AI for Research and Insights** (Google · Coursera)
-4. **Inclusive Open Source Community Orientation (LFC102)** (The Linux Foundation)
-
-</details>
-
-<details>
-<summary><b>🏢 Industry Programs, Honors & Fellowships — Expand to view</b></summary>
-
-1. **Backend AI Engineering Internship — Certificate of Completion** (FlyRank.ai · `ID: FR-D11-FA8DB-52256`)
-2. **Official Recommendation Letter** (Alen Malkoc, CEO · FlyRank.ai · `FR-D10-4A2D2-7F7FF`)
-3. **Final Internship Report & Evaluation** (Arijana Ibrović, Director · FlyRank.ai · `FR-D8-2C53C-C9AA4`)
-4. **INFERENCE Lab Fellowship — Cohort 01 Fellow** (INFERENCE Lab)
-5. **Top Participant — HEC / NAVTTC ACT AI SkillBridge** (Government of Pakistan)
-6. **McKinsey Forward Program** (McKinsey.org)
-7. **Certified Graphic Designer** (PITP–MUET · Govt of Sindh)
-
-</details>
-
-<details>
-<summary><b>🛡️ Cybersecurity & Professional Simulations — Expand to view</b></summary>
-
-1. **Cybersecurity Job Simulation** (Mastercard · Forage)
-2. **Cyber Security Operations Job Simulation** (Datacom · Forage)
-3. **Your Future in Cybersecurity: The Job Landscape** (IBM SkillsBuild)
-4. **Getting Started with Cybersecurity** (IBM SkillsBuild)
-5. **Protecting a Device with Malwarebytes** (IBM SkillsBuild)
-6. **Cybersecurity and Data** (IBM SkillsBuild)
-7. **Introduction to Cyber Security** (Simplilearn SkillUp)
-8. **AI for Beginners** (HP LIFE · HP Foundation)
-
-</details>
-
-<details>
-<summary><b>🐍 Python Specialization (UniAthena · CIQ) — Expand to view</b></summary>
-
-1. **Python for Data Science & Machine Learning**
-2. **Data Structure in Python**
-3. **OOPs Concept in Python**
-4. **Functions in Python**
-5. **Modules, Packages & Files in Python**
-6. **Data Types & Statements in Python**
-7. **Basics of Python Programming**
-
-</details>
+- ⚡ **Intelligent Document Processing (IDP):** Architected hybrid 3-tier routing pipelines that slash cloud API extraction expenses by **80–90%**.
+- 🔬 **Offline LLM Evaluation:** Engineered `llm-eval-kit` on PyPI, offering zero-cost, deterministic semantic and quantitative evaluations without LLM-as-a-judge dependencies.
+- 🛠️ **Developer Tooling:** Authored `ctx-bridge` on PyPI, an open-source context packaging CLI with automated language detection and secret token masking.
 
 ---
 
-## 🎓 Education
-
-- **Bachelor of Science in Information Technology (BS IT)**  
-  *University of Sindh, Jamshoro* | Feb 2024 – Dec 2027 (6th Semester)  
-  *Relevant Coursework:* AI & Machine Learning, Advanced DBMS, Cybersecurity, Cloud Computing, Computer Networks, Data Structures & Algorithms.
-
----
-
-## 📬 Connect With Me
-
-- 🌐 **Website:** [maaz-korejo.vercel.app](https://maaz-korejo.vercel.app)
-- 💼 **LinkedIn:** [linkedin.com/in/muhammad-maaz-korejo](https://linkedin.com/in/muhammad-maaz-korejo)
-- 🐙 **GitHub:** [github.com/Maazkorejo](https://github.com/Maazkorejo)
-- 📦 **PyPI:** [pypi.org/user/Maazkorejo](https://pypi.org/user/Maazkorejo)
-- 📧 **Email:** [maazkorejo00@gmail.com](mailto:maazkorejo00@gmail.com)
-- 📱 **WhatsApp:** +92 345 661 8618
-
----
+<!-- ═══════════════════════ KEY METRICS ═══════════════════════ -->
+## 📊 Engineering Impact & Numbers
 
 <div align="center">
-  <sub>Engineered with discipline. © 2026 Muhammad Maaz Korejo.</sub>
+
+| Metric | Achievement | What It Translates To |
+|:---:|:---:|:---|
+| 📉 **80–90%** | Cloud OCR Cost Cut | Tiered fallback: *0.5s LiteParse → CPU Docling → Mistral/Chandra cloud* |
+| ⚡ **3.3x** | Parallel Batch Speedup | Implemented distributed Ray parallel actors for multi-page batch PDFs |
+| ⏱️ **292+ hrs** | Verified AI Engineering | Completed Back-End AI track + accepted capstone at FlyRank.ai |
+| 🧪 **100%** | Pytest Coverage | Zero-compromise test-driven development across CLI tools & microservices |
+| 🛡️ **12** | Anthropic Verified Credentials | MCP, MCP Advanced, Claude API, Vertex AI, Agent Skills, Subagents, Claude Code |
+| 📜 **33** | Total Verified Certifications | Anthropic, Google, The Linux Foundation, IBM, HP, Forage, UniAthena, PITP |
+
+</div>
+
+<br/>
+
+<!-- Animated Snake Contribution Graphic -->
+<div align="center">
+  <h3>🐍 GitHub Contribution Activity Stream</h3>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════ GITHUB STATS CARDS ═══════════════════════ -->
+## 📈 GitHub Telemetry & Velocity
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/Maazkorejo">
+          <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Maazkorejo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Maaz's GitHub Stats" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/Maazkorejo">
+          <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Maazkorejo&theme=tokyonight&hide_border=true" alt="Maaz's Streak Stats" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://github.com/Maazkorejo">
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maazkorejo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- ═══════════════════════ EXPERIENCE ═══════════════════════ -->
+## 💼 Professional Experience & Fellowships
+
+```
+┌─────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                     EXPERIENCE TIMELINE                                     │
+├────────────────────────────────┬───────────────────────────┬────────────────────────────────┤
+│ ROLE                           │ ORGANIZATION              │ PERIOD                         │
+├────────────────────────────────┼───────────────────────────┼────────────────────────────────┤
+│ Back-End AI Engineering Intern │ FlyRank.ai (Casper, WY)   │ Jul 2026 – Sep 2026 (Completed)│
+│ AI Developer Intern            │ Nebulark (IDP SaaS)       │ Jul 2026 – Present (Current)   │
+│ Research Implementation Fellow │ INFERENCE Lab (Cohort 01) │ Jul 2026 – Present (Fellow)    │
+│ Cloud Computing Intern         │ PITP–MUET (Govt of Sindh) │ Mar 2026 – May 2026            │
+│ Certified Graphic Designer     │ PITP–MUET (Govt of Sindh) │ Jan 2025 – Mar 2025            │
+└────────────────────────────────┴───────────────────────────┴────────────────────────────────┘
+```
+
+<details open>
+<summary><b>🚀 1. Back-End AI Engineering Intern — FlyRank.ai</b> (Casper, WY · Remote | Jul – Sep 2026)</summary>
+
+> **Status:** `Completed Track` &nbsp;|&nbsp; **Verified ID:** `FR-D11-FA8DB-52256`
+
+- Completed **292+ documented engineering hours** covering API contracts, task design & prompting, Retrieval & Grounding (RAG), and evaluation operations.
+- Culminated program with accepted capstone project **"Your 10x Solution"**, reviewed and accepted by lead mentors and executive leadership.
+- Shipped 5 core production assignments: web scrapers, JWT/auth protection layers, multi-container Docker stacks, PostgreSQL database integrations, and CRUD REST APIs.
+- Attended 29 live technical masterclasses and completed 55 industry learning resources alongside completing 12 Anthropic Academy certifications.
+- **Accredited Proof:** Certificate of Completion, Recommendation Letter by CEO Alen Malkoc, and Final Evaluation Report by Director Arijana Ibrović.
+</details>
+
+<details open>
+<summary><b>⚡ 2. AI Developer Intern — Nebulark (IDP SaaS)</b> (Jul 2026 – Present)</summary>
+
+> **Status:** `Current Role` &nbsp;|&nbsp; **Domain:** *Intelligent Document Processing & OCR*
+
+- Executed a rigorous **14-tool benchmark** across OCR and layout parsing engines (*Docling, Mistral-OCR-4, Chandra-OCR, DocLayout-YOLO, Reducto, LandingAI DPT-3, PaddleOCR, LiteParse*).
+- Built a **3-tier cost-optimized hybrid extraction pipeline** (*0.5s LiteParse heuristic check → local CPU Docling → Mistral-OCR-4 / Chandra-OCR fallback*), reducing cloud API expenses by **80–90%**.
+- Deployed **Ray parallel actor processing** for **3.3x speedup** on multi-page PDF documents; fine-tuned **DocLayout-YOLO** (9 document layout classes) using Label-Studio annotations.
+- Conducted OpenMAIC provider-registry architectural review and enforced PostgreSQL Row-Level Security (RLS) tenant isolation.
+</details>
+
+<details open>
+<summary><b>🔬 3. Research / Implementation Engineer — INFERENCE Lab Fellowship</b> (Cohort 01 | Jul 2026 – Present)</summary>
+
+> **Status:** `Cohort 01 Fellow` &nbsp;|&nbsp; **Project:** `llm-eval-kit` on PyPI
+
+- Selected from **130+ applicants** to build `llm-eval-kit`, an open-source, pip-installable Python library for offline, deterministic LLM evaluation.
+- Implemented 4 evaluation modules (*Factual Grounding, Relevance, Refusal Detection, Completeness*) with **zero external judge API calls** using local sentence-transformers (`all-MiniLM-L6-v2`).
+- Designed thread-safe singleton model caching and strict numeric-mismatch verification layers to prevent false-positive matches in quantitative scoring.
+</details>
+
+<details>
+<summary><b>☁️ 4. Cloud Computing Intern — PITP–MUET, Jamshoro</b> (Mar – May 2026)</summary>
+
+- Delivered capstone Flask + PostgreSQL + Railway web platform with automated CI/CD under a government-backed technical training program.
+- Decreased lab setup time by **~30%** via automated VM configuration and onboarding scripts.
+</details>
+
+<details>
+<summary><b>🎨 5. Certified Graphic Designer Intern — PITP–MUET</b> (Jan – Mar 2025)</summary>
+
+- Produced 10+ branded visual assets for institutional print and digital communications under an accredited government design curriculum.
+- Completed with official Certified Graphic Designer credential.
+</details>
+
+---
+
+<!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
+## 🚀 Featured Flagship Projects
+
+<div align="center">
+
+| Project | Tech Stack | Highlights | Links |
+|:---|:---|:---|:---:|
+| **📦 CTX-Bridge** | `Python` `Typer` `Rich` `pytest` `PyPI` | Open-source CLI to package codebase context for LLM handoffs (Claude, Cursor, ChatGPT). Secret masking + Claude Code presets. | [![PyPI](https://img.shields.io/badge/PyPI-v0.1-blue?logo=pypi&logoColor=white)](https://pypi.org/project/ctx-bridge) [![GitHub](https://img.shields.io/badge/Code-GitHub-181717?logo=github)](https://github.com/Maazkorejo/CTX-Bridge) |
+| **🔬 llm-eval-kit** | `Python` `sentence-transformers` `PyTorch` `pytest` | Deterministic offline LLM evaluation without LLM-as-a-judge API costs. Grounding, relevance, refusal, completeness. | [![PyPI](https://img.shields.io/badge/PyPI-v0.1-blue?logo=pypi&logoColor=white)](https://pypi.org/project/llm-eval-kit) [![GitHub](https://img.shields.io/badge/Code-GitHub-181717?logo=github)](https://github.com/Inference-LAB/llm-eval-kit) |
+| **🧠 Self-RAG Engine** | `Python` `Groq` `LLaMA 3.3 70B` `LangGraph` `Docker` | Self-Reflective RAG (*Asai et al.*) with 4 reflection checkpoints (`Retrieve`, `IsRel`, `IsSup`, `IsUse`), query rewrite fallback, 100% pytest coverage. | [![GitHub](https://img.shields.io/badge/Code-GitHub-181717?logo=github)](https://github.com/Maazkorejo/self-rag-engine) |
+| **🎙️ Alfred Assistant** | `Flask` `LangGraph` `pgvector` `Piper TTS` `React 18` | Agentic assistant with 14 tools, persistent vector memory, WebSocket live trace visualizer, and local FFT clap-to-wake detector. | [![Demo](https://img.shields.io/badge/Live-Demo-brightgreen?logo=vercel)](https://alfred-personal-assistant.vercel.app) [![GitHub](https://img.shields.io/badge/Code-GitHub-181717?logo=github)](https://github.com/Maazkorejo/Alfred-Personal-Assistant) |
+| **⚽ AI Pundit Rankings** | `Flask` `Supabase` `PostgreSQL` `Mistral AI` `APScheduler` | Social FIFA World Cup 2026 prediction platform with automated AI background grading & community roasting pipeline. | [![Demo](https://img.shields.io/badge/Live-Demo-brightgreen?logo=vercel)](https://football-pundit.vercel.app) [![GitHub](https://img.shields.io/badge/Code-GitHub-181717?logo=github)](https://github.com/Maazkorejo/football-pundit) |
+| **🛡️ Network IDS** | `Python` `XGBoost` `Random Forest` `SHAP` `Scikit-learn` | End-to-end ML pipeline classifying 14 attack categories on CICIDS-2017 with **~99% accuracy** and SHAP feature explainability. | [![GitHub](https://img.shields.io/badge/Code-GitHub-181717?logo=github)](https://github.com/Maazkorejo/NIDS-Machine-Learning) |
+
+</div>
+
+---
+
+<!-- ═══════════════════════ TECH STACK ICONS ═══════════════════════ -->
+## 🛠️ Master Tech Stack & Capabilities
+
+<p align="center">
+  <!-- AI / LLM -->
+  <img src="https://skillicons.dev/icons?i=python,pytorch,docker,postgres,supabase,flask,react,vite,tailwind,git,github,linux" />
+</p>
+
+### 🧠 01. AI & LLM Engineering
+- **Models & APIs:** Claude / Anthropic API · Groq API (LLaMA 3.3 70B) · Mistral AI · sentence-transformers (`all-MiniLM-L6-v2`)
+- **Agentic Frameworks:** Model Context Protocol (MCP) · Claude Code (Subagents & Agent Skills) · LangGraph · DSPy Prompt Optimization
+- **RAG & Memory:** Retrieval & Grounding (RAG) · Self-RAG Reflection Checkpoints · ChromaDB · pgvector · Supabase Vector Memory
+- **Evaluation:** `llm-eval-kit` (Deterministic Offline Evaluation) · Factual Grounding · Question Relevance · Refusal Detection
+
+### 📄 02. Document Intelligence & OCR
+- **Engines & Parsers:** Docling · Mistral-OCR-4 · Chandra-OCR · LiteParse · MinerU / Unstructured · PaddleOCR
+- **Vision & Layout:** DocLayout-YOLO (Fine-tuned on 9 document classes) · Label-Studio Annotation
+- **Distributed Computing:** Ray Parallel Actor Processing (3.3x speedup on multi-page PDFs) · Multi-tier Hybrid Routing
+
+### ⚙️ 03. Backend & Cloud Infrastructure
+- **Languages & Frameworks:** Python (Flask, Flask-SocketIO) · Node.js & JavaScript · Typer CLI & Rich Terminal
+- **Databases & ORMs:** PostgreSQL (Row-Level Security Tenant Isolation) · Supabase · Redis / In-Memory Caching
+- **API & Architecture:** REST APIs · Swagger / OpenAPI Contracts · Webhooks · The Twelve-Factor App · Asynchronous Workers
+- **DevOps & Cloud:** Docker · Railway · Vercel · Git / GitHub Actions · Automated CI/CD Pipelines
+
+### 🧪 04. Testing & Quality Discipline
+- **Unit & Integration Testing:** `pytest` with **100% test coverage** discipline · Mock fixtures & state transition tests
+- **Deterministic Validation:** Numeric-mismatch verification layers to catch LLM hallucinated figures
+
+---
+
+<!-- ═══════════════════════ CERTIFICATIONS ACCORDION ═══════════════════════ -->
+## 📜 Verified Certifications & Honors (33 Total)
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Anthropic-12%20Credentials-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google-Specialization-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Foundation-LFC102-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/FlyRank.ai-Backend_AI-53E399?style=for-the-badge&logo=fastapi&logoColor=black" />
+  <img src="https://img.shields.io/badge/IBM_SkillsBuild-Cybersecurity-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+</div>
+
+<br/>
+
+<details>
+<summary><b>🟧 Anthropic — 12 Verified Credentials (Click to expand)</b></summary>
+
+| Credential Name | Issuing Body | Date Issued |
+|:---|:---|:---:|
+| **Model Context Protocol (MCP)** | Anthropic | Apr 2026 |
+| **Model Context Protocol: Advanced Topics** | Anthropic | Apr 2026 |
+| **Building with the Claude API** | Anthropic | Apr 2026 |
+| **Claude with Google Cloud's Vertex AI** | Anthropic | Apr 2026 |
+| **Introduction to Agent Skills** | Anthropic | Apr 2026 |
+| **Introduction to Subagents** | Anthropic | Apr 2026 |
+| **Claude Code in Action** | Anthropic | Apr 2026 |
+| **Claude Code 101** | Anthropic | Apr 2026 |
+| **Claude Platform 101** | Anthropic | Apr 2026 |
+| **AI Fluency: Framework & Foundations** | Anthropic | Apr 2026 |
+| **Claude 101** | Anthropic | Apr 2026 |
+| **AI Fluency for Students** | Anthropic | Apr 2026 |
+
+</details>
+
+<details>
+<summary><b>🟦 Google & The Linux Foundation (Click to expand)</b></summary>
+
+| Credential Name | Issuing Body | Date Issued |
+|:---|:---|:---:|
+| **Google AI Essentials (5-Course Specialization)** | Google · Coursera | Jul 2026 |
+| **AI Fundamentals** | Google · Coursera | Aug 2026 |
+| **AI for Research and Insights** | Google · Coursera | Aug 2026 |
+| **Inclusive Open Source Community Orientation (LFC102)** | The Linux Foundation | Aug 2026 |
+
+</details>
+
+<details>
+<summary><b>🏢 Industry Programs, Honors & Fellowships (Click to expand)</b></summary>
+
+| Credential / Honor | Issuing Organization | Verification Ref |
+|:---|:---|:---:|
+| **Backend AI Engineering Internship — Certificate of Completion** | FlyRank.ai | `FR-D11-FA8DB-52256` |
+| **Official Recommendation Letter** | FlyRank.ai (Alen Malkoc, CEO) | `FR-D10-4A2D2-7F7FF` |
+| **Final Internship Report & Evaluation** | FlyRank.ai (Arijana Ibrović, Director) | `FR-D8-2C53C-C9AA4` |
+| **INFERENCE Lab Fellowship — Cohort 01 Fellow** | INFERENCE Lab | Fellowship Cohort 01 |
+| **Top Participant — ACT AI SkillBridge** | HEC / NAVTTC (Govt of Pakistan) | 2026 |
+| **McKinsey Forward Program** | McKinsey.org | Jun 2026 |
+| **Certified Graphic Designer** | PITP–MUET · Govt of Sindh | 2025 |
+
+</details>
+
+<details>
+<summary><b>🛡️ Cybersecurity & Professional Simulations (Click to expand)</b></summary>
+
+| Credential Name | Issuing Organization | Date Issued |
+|:---|:---|:---:|
+| **Mastercard Cybersecurity Job Simulation** | Mastercard · Forage | 2026 |
+| **Datacom Cyber Security Operations Job Simulation** | Datacom · Forage | 2026 |
+| **Your Future in Cybersecurity: The Job Landscape** | IBM SkillsBuild | 2026 |
+| **Getting Started with Cybersecurity** | IBM SkillsBuild | 2026 |
+| **Protecting a Device with Malwarebytes** | IBM SkillsBuild | 2026 |
+| **Cybersecurity and Data** | IBM SkillsBuild | 2026 |
+| **Introduction to Cyber Security** | Simplilearn SkillUp | 2026 |
+| **AI for Beginners** | HP LIFE · HP Foundation | 2026 |
+
+</details>
+
+<details>
+<summary><b>🐍 Python Specialization — UniAthena & CIQ (Click to expand)</b></summary>
+
+| Credential Name | Issuer | Date Issued |
+|:---|:---|:---:|
+| **Python for Data Science & Machine Learning** | UniAthena · CIQ | 2025 |
+| **Data Structure in Python** | UniAthena · CIQ | 2025 |
+| **OOPs Concept in Python** | UniAthena · CIQ | 2025 |
+| **Functions in Python** | UniAthena · CIQ | 2025 |
+| **Modules, Packages & Files in Python** | UniAthena · CIQ | 2025 |
+| **Data Types & Statements in Python** | UniAthena · CIQ | 2025 |
+| **Basics of Python Programming** | UniAthena · CIQ | 2025 |
+
+</details>
+
+---
+
+<!-- ═══════════════════════ FOOTER & CONTACT ═══════════════════════ -->
+## 📬 Let's Connect
+
+<p align="center">
+  <b>I am currently exploring AI Developer and Backend Systems Engineering roles.</b><br/>
+  Whether you're building high-throughput agent systems, cost-optimized IDP architectures, or scalable backend infrastructure, feel free to reach out!
+</p>
+
+<div align="center">
+
+<a href="https://maaz-korejo.vercel.app">
+  <img src="https://img.shields.io/badge/🌐_Website-maaz--korejo.vercel.app-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/muhammad-maaz-korejo">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Maazkorejo">
+  <img src="https://img.shields.io/badge/🐙_GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:maazkorejo00@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email-maazkorejo00%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<!-- Visitor Counter & Dynamic Activity Indicator -->
+<img src="https://komarev.com/ghpvc/?username=Maazkorejo&label=Profile%20Views&color=22c55e&style=flat-square" alt="Profile Views" />
+
+<br/><br/>
+
+<sub>Engineered with precision and discipline. © 2026 Muhammad Maaz Korejo.</sub>
+
 </div>
