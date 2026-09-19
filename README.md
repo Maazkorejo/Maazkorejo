@@ -1,253 +1,162 @@
 <div align="center">
-
 # Hi there, I'm Muhammad Maaz 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=AI+Developer+%26+Backend+Engineer;Building+Agentic+AI+Systems+with+LangGraph;LLM-Integrated+Platforms+%2B+ML+Pipelines;Shipping+Real%2C+Deployed+Products)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=AI+Developer+%26+Backend+Engineer;Open-Source+Contributor+to+Microsoft+AutoGen;Building+Agentic+AI+Systems+%2B+Self-RAG;12x+Anthropic+Verified+Credentials;Shipping+Deterministic+LLM+Evaluation+Libraries)](https://git.io/typing-svg)
 ![Profile Views](https://komarev.com/ghpvc/?username=Maazkorejo&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammad--maaz--korejo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-maaz-korejo-1677a9267)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-22C55E?style=for-the-badge&logo=railway&logoColor=white)](https://cloud-portfolio-production-f02c.up.railway.app)
 [![Email](https://img.shields.io/badge/Email-maazkorejo00@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maazkorejo00@gmail.com)
-
 </div>
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/kirinnee/kirinnee/master/pixel-city.gif" width="100%"/>
 </div>
-
 ---
-
 <table>
 <tr>
 <td width="60%">
-
 ### 🎯 About Me
-
 - 🎓 3rd-year **BS Information Technology** student at **University of Sindh, Jamshoro** (6th semester)
-- 🤖 Specializing in **LLM-integrated platforms**, **agentic AI systems**, and **cloud-deployed backends**
-- 📜 Hold **8 Anthropic-verified credentials**, including **Model Context Protocol (MCP)** — Apr 2026
-- 🏛️ Completed **two government-backed internships** at PITP–MUET (Government of Sindh) in Cloud Computing and Graphic Design
-- 🔬 Currently deepening expertise in **agentic workflows (LangGraph)** and **n8n automation**
+- 🚀 **Open-Source Contributor** to Microsoft's official multi-agent framework: **[Microsoft AutoGen](https://github.com/microsoft/autogen)**
+- 📜 Hold **12 Anthropic-verified credentials** across MCP, Claude API, Claude Code, Subagents, and Agent Skills
+- 🔬 **Research/Implementation Engineer** at **INFERENCE Lab Fellowship** developing `llm-eval-kit` for offline LLM evaluation
+- 💼 Completed **Backend AI Engineering Internship** at **FlyRank.ai** and contributing to Intelligent Document Processing (IDP) SaaS at **Nebulark**
 - 🌍 Based in Hyderabad, Pakistan
-
 </td>
 <td width="40%">
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
 </td>
 </tr>
 </table>
-
-<table>
-<tr>
-<td width="40%">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="0"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100%"/>
-</td>
-<td width="60%">
-
-### 🚀 What I Do
-
-- 🤖 **Agentic AI Systems** — Building tool-calling assistants with LangGraph, Mistral AI, and persistent vector memory (pgvector)
-- ⚙️ **Backend Engineering** — Designing REST APIs and relational schemas with Flask, PostgreSQL, and Supabase
-- 🔐 **Machine Learning for Security** — Training XGBoost/Random Forest models for network intrusion detection with SHAP explainability
-- ☁️ **Cloud Deployment** — Shipping full-stack platforms on Railway and Vercel with CI/CD pipelines
-
-</td>
-</tr>
-</table>
-
 ---
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%"/>
-</div>
-
-### 🛠️ Tech Stack
-
-**AI & LLM Engineering**
-
-![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-Certified-7C3AED?style=for-the-badge&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
-![Mistral AI](https://img.shields.io/badge/Mistral_AI-FF7000?style=for-the-badge&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-**Machine Learning**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Backend & Cloud**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-**Currently Exploring**
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
+### 🌟 Open-Source Contributions
+#### 🤖 [Microsoft AutoGen — PR #8077](https://github.com/microsoft/autogen/pull/8077)
+> *Maintainer-Approved Fix in Microsoft's Multi-Agent AI Framework*
+- **Diagnosed [Issue #7418](https://github.com/microsoft/autogen/issues/7418):** Discovered that custom LLM inference parameters (`extra_body`, e.g., `enable_thinking` for reasoning models or custom API flags) were accepted at runtime but silently stripped during JSON serialization in `autogen-ext`.
+- **Architected Fix & Test Suite:** Added `extra_body` to `CreateArguments` and `CreateArgumentsConfigModel` Pydantic schemas, authored regression test suites for `dump_component()` / `load_component()` serialization roundtrips, and added Azure OpenAI client compatibility.
+- **Formal Maintainer Approval:** Officially reviewed and **approved by Microsoft maintainer Esan (@EsanRAHIMI)**.
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Maaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maazkorejo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maazkorejo&layout=compact&theme=tokyonight&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Maazkorejo&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
-</div>
-
 ### 🚀 Featured Projects
-
-#### 🦇 [Alfred — Personal AI Operating Assistant](https://github.com/Maazkorejo/Alfred-Personal-Assistant) — *[Live Sandbox Demo](https://alfred-personal-assistant.vercel.app)*
-> A fully agentic AI assistant, not just a chatbot wrapper
-
-Built a **LangGraph-based agentic assistant** with real tool-calling — email, calendar, and reminders — backed by **persistent vector memory (pgvector)** for contextual recall across sessions. Implemented a **real-time streaming chat interface** (Flask-SocketIO) with a live agent-reasoning trace panel exposing the model's tool-selection steps, plus voice I/O via Piper TTS and a custom clap-to-wake system. Deployed a public sandbox (Railway + Vercel) to demo the architecture without exposing the private integrations.
-
+#### 🌉 [CTX-Bridge — AI Assistant Context Handoff CLI](https://github.com/Maazkorejo/CTX-Bridge)
+> *Cognitive memory and context bridge between AI coding tools (Cursor, Claude, Copilot, ChatGPT)*
+- **Zero-Loss Context Handoff:** Captures active Git state, working tree diffs, timestamped session notes, and ASCII directory trees into paste-ready prompt handoffs and disk snapshots.
+- **Smart Detection & Security Redaction:** Auto-detects 8+ project ecosystems (Python, JS/TS, Rust, Go, Java, C#, Ruby, PHP) and redacts sensitive credentials (`.env*`, `*.pem`, `*.key`, `credentials.json`).
+- **Comprehensive Quality:** Built with Click/Typer CLI, rich terminal outputs, and robust `pytest` test suites verifying CLI subcommands and symlink loop protection.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-Developer_Tools-7C3AED?style=flat-square&logoColor=white)
+---
+#### 🧠 [Self-Reflective RAG Engine](https://github.com/Maazkorejo/self-rag-engine)
+> *Production-Grade Self-Reflective RAG Architecture (Asai et al., ICLR 2024)*
+- **Four Reflection Checkpoints:** Dynamically critiques retrieval necessity (`Retrieve`), query relevance (`IsRel`), groundedness/hallucination risk (`IsSup`), and answer utility (`IsUse`) using **Groq LLaMA 3.3 70B**.
+- **Dense Vector Search:** Integrated Supabase `pgvector` with local `sentence-transformers` embeddings for sub-second retrieval.
+- **100% Test Coverage:** Containerized with Docker, rate-limited via Flask-Limiter with SHA-256 API authentication, Swagger/OpenAPI docs, and **46 pytest test suites at 100% code coverage**.
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_LLaMA_3.3_70B-F55036?style=flat-square&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase_pgvector-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-100%25_Coverage-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+---
+#### 🦇 [Alfred — Personal AI Operating Assistant](https://github.com/Maazkorejo/Alfred-Personal-Assistant) — *[Live Demo](https://alfred-personal-assistant.vercel.app)*
+> *Autonomous agentic assistant with multi-tool calling & persistent vector memory*
+- **Agentic Workflow:** Architected an assistant integrating 14 distinct tools (Email, Calendar, Weather, Browser automation) via a custom two-LLM-call tool-calling pipeline.
+- **Real-Time Reasoning & Voice:** Built streaming socket chat with live reasoning traces, voice I/O via Piper TTS, and an FFT-based spectral clap-to-wake detector.
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
 ![Mistral](https://img.shields.io/badge/Mistral_AI-FF7000?style=flat-square&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL+pgvector-316192?style=flat-square&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-
 ---
-
-#### ⚽ [AI Pundit Rankings — Football Prediction Platform](https://github.com/Maazkorejo/football-pundit) — *[football-pundit.vercel.app](https://football-pundit.vercel.app)*
-> Social prediction platform for FIFA World Cup 2026
-
-Built a full-stack social platform with a **6-module REST API** and **5-table relational schema**, where users post match predictions and an automated **AI-scoring pipeline (APScheduler + Mistral AI)** grades them against live results and generates real-time roasts — eliminating manual scoring entirely. Integrated live football data via the API-Football feed.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Mistral](https://img.shields.io/badge/Mistral_AI-FF7000?style=flat-square&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
+#### 🧪 [llm-eval-kit — Offline LLM Evaluation Library](https://github.com/Inference-LAB/llm-eval-kit) — *[PyPI Package](https://pypi.org/project/llm-eval-kit)*
+> *Lightweight, deterministic evaluation library without costly LLM-as-a-judge API calls*
+- Built during the **INFERENCE Lab Fellowship (Cohort 01)** to evaluate LLM outputs offline across 4 criteria: **Factual Grounding**, **Question Relevance**, **Refusal Detection**, and **Completeness**.
+- Utilizes local `sentence-transformers` (`all-MiniLM-L6-v2`) with thread-safe singleton model caching and strict numeric mismatch verification.
+![Python](https://img.shields.io/badge/Python-PyPI_Package-3776AB?style=flat-square&logo=python&logoColor=white)
+![sentence-transformers](https://img.shields.io/badge/sentence--transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Pytest](https://img.shields.io/badge/Pytest-Tested-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ---
-
-#### 🛡️ [Network Intrusion Detection System](https://github.com/Maazkorejo/NIDS-Machine-Learning)
-> ~99% accuracy ML pipeline on real-world cybersecurity data
-
-Built an end-to-end ML pipeline on the **CICIDS-2017 dataset**, classifying 14 network attack categories (DDoS, Port Scan, Botnet, Brute Force) with **XGBoost achieving ~99% accuracy** and a near-zero false-positive rate. Applied **SHAP** for model explainability, identifying the top predictive features driving each classification, and packaged the pipeline as a reproducible module for one-command reuse.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
+### 💼 Professional Experience
+* **Research/Implementation Engineer** — *INFERENCE Lab Fellowship (Cohort 01)* · *Jul 2026 – Present*  
+  Selected among 130+ applicants to design core evaluation modules for `llm-eval-kit`. Authored Section 3 (Technical Approach) of the design document and lead offline embedding experiments.
+* **Back-End AI Engineering Intern** — *FlyRank.ai* · *Completed*  
+  Delivered 5 core production assignments: high-resilience web scraping pipelines, JWT authentication, multi-container Docker deployments, and PostgreSQL/OpenAPI backends.  
+  📜 **[Verify Certificate (FR-D11-FA8DB-52256)](https://internship.flyrank.ai/verify?id=FR-D11-FA8DB-52256)** · 📄 **[CEO Recommendation Letter](https://internship.flyrank.ai/verify?id=FR-D10-4A2D2-7F7FF)** · 📊 **[Director Evaluation Report](https://internship.flyrank.ai/verify?id=FR-D8-2C53C-C9AA4)**
+* **AI Developer Intern** — *Nebulark* · *Jul 2026 – Present*  
+  Contributing to Intelligent Document Processing (IDP) platform design, OCR pipeline evaluations (Mistral OCR, Docling, PaddleOCR), and provider-registry architectures.
+* **Cloud Computing Intern** — *PITP–MUET (Govt of Sindh)* · *Mar – May 2026*  
+  Delivered a full-stack Flask + PostgreSQL + Railway platform with CI/CD; reduced lab environment setup time by ~30% through automated VM scripting.
 ---
-
-#### 🌐 [Cloud Portfolio Platform](https://github.com/Maazkorejo/Cloud-Portfolio) — *Live on Railway*
-> Production-grade personal platform on multi-cloud free-tier infrastructure
-
-Delivered a **Flask + Neon PostgreSQL + Railway** platform with **4 REST API endpoints**, GitHub CI/CD auto-deploy, dark/light mode, and admin-authenticated contact submissions — built as a capstone project during a government-backed Cloud Computing internship.
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
----
-
-### 💼 Experience
-
-**Cloud Computing Intern** — PITP–MUET, Jamshoro (Govt of Sindh) · *Mar – May 2026*
-Delivered a capstone Flask + PostgreSQL + Railway platform with CI/CD as part of a government-backed technical training program, and reduced lab environment setup time by ~30% by scripting VM configuration for trainee onboarding.
-
-**Certified Graphic Designer Intern** — PITP–MUET (Govt of Sindh) · *Jan – Mar 2025*
-Produced 10+ branded visual assets for institutional print and digital communications under a government-accredited design program.
-
----
-
-### 🎓 Education
-
-| Degree | Institution | Duration |
-|--------|-------------|----------|
-| BS Information Technology | University of Sindh, Jamshoro | Feb 2024 – Dec 2027 (6th Sem.) |
-
-**Relevant coursework:** AI & Machine Learning, Advanced DBMS, Cybersecurity, Cloud Computing, Computer Networks
-
----
-
-### 📜 Certifications
-
-| Issuer | Credential |
-|--------|------------|
-| 🟠 **Anthropic ×8** | Model Context Protocol (Apr 2026) · Claude with the Anthropic API · Introduction to Agent Skills · Introduction to Subagents · Claude Code in Action · AI Fluency: Framework & Foundations · Claude 101 · AI Fluency for Students |
-| 🏅 **HEC/NAVTTC** | Top Participant — ACT AI SkillBridge (2026) |
-| 🔵 **McKinsey.org** | McKinsey Forward (Jun 2026) |
-| 🔵 **IBM SkillsBuild** | Cybersecurity Fundamentals · Protecting a Device with Malwarebytes |
-| 🔶 **Forage** | Mastercard · Datacom (Job Simulations) |
-| 🟣 **Cambridge IQ / UniAthena** | Python ×4 |
-| ⚫ **Simplilearn** | Git & GitHub |
-
----
-
+### 🛠️ Tech Stack
 <table>
 <tr>
-<td width="60%">
-
-### 🔭 Current Mission
-
-- 🔭 **Building:** Alfred's core agent architecture (LangGraph + vector memory) into a production-ready private build
-- 🌱 **Exploring:** Agentic workflow design, n8n automation, and multi-hop LLM tool orchestration
-- 🤝 **Open to:** AI/ML internships, backend engineering roles, and collaborations on agentic AI projects
-- 💬 **Ask me about:** LangGraph, Mistral AI, Flask backends, or intrusion detection with XGBoost
-- ⚡ **Fun fact:** I built a clap-to-wake assistant using real-time FFT spectral analysis, no cloud needed
-- 🎯 **Goal:** Shipping AI systems that are genuinely useful, not just impressive demos
-
+<td align="center" width="20%"><strong>AI & LLMs</strong></td>
+<td>
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-7C3AED?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_AutoGen-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mistral_AI-FF7000?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq_LLaMA_3.3-F55036?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sentence--transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
 </td>
-<td width="40%">
-<img src="https://media.giphy.com/media/TgYud8vitbXTPRTfyq/giphy.gif" width="100%"/>
+</tr>
+<tr>
+<td align="center"><strong>Backend & Cloud</strong></td>
+<td>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>Testing & ML</strong></td>
+<td>
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SHAP-Explainability-blue?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td align="center"><strong>Frontend</strong></td>
+<td>
+  <img src="https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript%2FJavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </td>
 </tr>
 </table>
-
 ---
-
-### 🤝 Connect & Collaborate
-
+### 📜 Verified Credentials & Honors
+| Issuer | Credential |
+|---|---|
+| 🟠 **Anthropic ×12** | Model Context Protocol (MCP) · Claude API · Claude Code in Action · Introduction to Agent Skills · Introduction to Subagents · AI Fluency: Framework & Foundations · Claude 101 |
+| 🏅 **HEC / NAVTTC** | Top Participant — ACT AI SkillBridge (2026) |
+| 🔵 **McKinsey.org** | McKinsey Forward (Jun 2026) |
+| 🔵 **IBM SkillsBuild** | Cybersecurity Fundamentals · Protecting a Device with Malwarebytes |
+| 🔶 **Forage** | Mastercard · Datacom (Job Simulations) |
+| 🟣 **Cambridge IQ / UniAthena** | Python Programming (×4) |
+---
+### 📊 GitHub Stats
 <div align="center">
-
+![Maaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maazkorejo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maazkorejo&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Maazkorejo&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+</div>
+---
+### 🤝 Connect & Collaborate
+<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-maaz-korejo-1677a9267)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maazkorejo)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maazkorejo00@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-*Open to internships, collaborations, and interesting problems.*
-
-⭐ **Star a repo if my work impressed you** ⭐
-
+*Open to AI Engineering roles, backend opportunities, and open-source collaborations.*
+⭐ **Star a repo if my work caught your eye!** ⭐
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
-
 </div>
